@@ -2,13 +2,13 @@
 
 # API
 
-- Get List of users
-METHOD: GET 
-ROUTE: /users
+- Get List of users <br />
+METHOD: GET <br />
+ROUTE: /users <br />
 
-- Send User a DM
-METHOD: POST 
-ROUTE: /users/:id/send-message
-BODY: {
-  "message": String
-}
+- Send User a DM <br />
+METHOD: POST <br />
+ROUTE: /users/:id/send-message <br />
+BODY: { <br />
+  "message": String <br />
+} <br />
