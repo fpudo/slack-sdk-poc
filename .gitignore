@@ -8,4 +8,4 @@
 /build
 
 # misc
-.env
+.env.tokens
